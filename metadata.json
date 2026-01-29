@@ -1,0 +1,5 @@
+{
+  "name": "CyberShield: Anti-Hoax Agency",
+  "description": "A news verification game where you act as an agent filtering social media misinformation using a virtual smartphone. Swipe right to validate facts and left to report hoaxes, maintaining the City Calmness Index while learning to spot disinformation.",
+  "requestFramePermissions": []
+}
